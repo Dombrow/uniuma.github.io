@@ -11,3 +11,10 @@ body {
 	color: green;
 	font-style: italic;
 }
+
+#glavsa h2 {
+	color: blue;
+	font-style: italic;
+	font-size: 36px;
+	text-align: center;
+}
