@@ -1,0 +1,45 @@
+body {
+	background-color: red;
+}
+
+#glav a {
+	color: yellow;
+	text-decoration: underline;
+}
+
+#glav h1 {
+	color: green;
+	font-style: italic;
+}
+
+#navv a {
+	color: yellow;
+	text-decoration: underline;
+}
+
+#navv h1 {
+	color: green;
+	font-style: italic;
+}
+
+#afisa h2 {
+	color: blue;
+	font-style: italic;
+	font-size: 36px;
+	text-align: center;
+}
+
+#animal h2 {
+	color: aqua;
+	text-align: center;
+}
+
+#sport h2 {
+	color: aqua;
+	text-align: center;
+}
+
+#music h2 {
+	color: aqua;
+	text-align: center;
+}

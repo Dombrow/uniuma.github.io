@@ -1,0 +1,77 @@
+body {
+	background-color: red;
+}
+
+#glav a {
+	color: yellow;
+	text-decoration: underline;
+}
+
+#glav h1 {
+	color: green;
+	font-style: italic;
+}
+
+#vs h1 {
+	color: green;
+	font-style: italic;
+}
+
+#vs a {
+	color: yellow;
+	text-decoration: underline;
+}
+
+#news h2 {
+	color: blue;
+	font-style: italic;
+	font-size: 36px;
+	text-align: center;
+}
+
+#news1 h3 {
+	color: aqua;
+	text-align: center;
+}
+
+#news1 p {
+	color: lime;
+	text-align: center;
+}
+
+#news2 h3 {
+	color: aqua;
+	text-align: center;
+}
+
+#news2 p {
+	color: lime;
+	text-align: center;
+}
+
+#obn h2 {
+	color: blue;
+	font-style: italic;
+	font-size: 36px;
+	text-align: center;
+}
+
+#obn1 h3 {
+	color: aqua;
+	text-align: center;
+}
+
+#obn1 p {
+	color: lime;
+	text-align: center;
+}
+
+#obn2 h3 {
+	color: aqua;
+	text-align: center;
+}
+
+#obn2 p {
+	color: lime;
+	text-align: center;
+}
