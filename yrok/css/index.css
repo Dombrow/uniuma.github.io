@@ -1,0 +1,17 @@
+body {
+	background: blue;
+}
+
+#photo img {
+	border: 3px white dotted;
+	border-radius: 150px;
+	height: 300px;
+	width:auto;
+}
+
+#photo2 img {
+	border: 3px white dotted;
+	border-radius: 150px;
+	height: 300px;
+	width:auto;
+}

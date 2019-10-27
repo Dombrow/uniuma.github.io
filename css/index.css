@@ -18,3 +18,12 @@ body {
 	font-size: 36px;
 	text-align: center;
 }
+
+#ld h2 {
+	border: 5px dotted green; 
+	padding: 30px 10px;
+	margin: 30px 10px;
+	border-radius: 25px;
+	background: yellow;
+	text-align: center;
+}
