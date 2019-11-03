@@ -16,5 +16,16 @@ body {
 	color: blue;
 	font-style: italic;
 	font-size: 36px;
+	border: 8px groove green; 
+	padding: 30px 10px;
+	margin: 30px 10px;
+	border-radius: 30px;
+	background: yellow;
 	text-align: center;
+	text-decoration: underline;
+}
+
+#photo img {
+	border: 5px dotted white;
+	border-radius: 300px;
 }

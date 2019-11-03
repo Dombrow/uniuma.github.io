@@ -16,14 +16,11 @@ body {
 	color: blue;
 	font-style: italic;
 	font-size: 36px;
-	text-align: center;
-}
-
-#ld h2 {
-	border: 5px dotted green; 
+	border: 8px groove green; 
 	padding: 30px 10px;
 	margin: 30px 10px;
-	border-radius: 25px;
+	border-radius: 30px;
 	background: yellow;
 	text-align: center;
+	text-decoration: underline;
 }
