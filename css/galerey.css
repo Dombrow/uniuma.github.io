@@ -29,3 +29,8 @@ body {
 	border: 5px dotted white;
 	border-radius: 300px;
 }
+
+#vver img{
+	display: block;
+	margin: 0 auto;
+}

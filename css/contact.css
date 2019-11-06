@@ -32,3 +32,8 @@ body {
 #contact a {
 	color: gold;
 }
+
+#vver img{
+	display: block;
+	margin: 0 auto;
+}
