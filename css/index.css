@@ -25,7 +25,22 @@ body {
 	text-decoration: underline;
 }
 
-#vver img{
+#vver img {
 	display: block;
 	margin: 0 auto;
+}
+
+.dani {
+	background: blue url("../image/day.png") top right/70px 70px no-repeat;
+}
+
+.dani h1 {
+	text-align: center;
+	color: yellow;
+	font-size: 100px;
+}
+
+.dani:hover h1 {
+	background: purple url("../image/night.png") bottom left/70px 70px no-repeat;
+	color: black;
 }
