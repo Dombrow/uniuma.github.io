@@ -3,16 +3,19 @@ body {
 }
 
 #glav a {
+	font-family: 'Russo One', sans-serif;
 	color: yellow;
 	text-decoration: underline;
 }
 
 #glav h1 {
+	font-family: 'Ruslan Display', cursive;
 	color: green;
 	font-style: italic;
 }
 
 #photo h2 {
+	font-family: 'Russo One', sans-serif;
 	color: blue;
 	font-style: italic;
 	font-size: 36px;

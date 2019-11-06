@@ -3,16 +3,20 @@ body {
 }
 
 #glav a {
+	font-family: 'Russo One', sans-serif;
+	font-size: 20px;
 	color: yellow;
 	text-decoration: underline;
 }
 
 #glav h1 {
+	font-family: 'Ruslan Display', cursive;
 	color: green;
 	font-style: italic;
 }
 
 #blog h2 {
+	font-family: 'Ruslan One', cursive;
 	color: blue;
 	font-style: italic;
 	font-size: 36px;
@@ -26,6 +30,8 @@ body {
 }
 
 #blog p {
+	font-family: 'Caveat', cursive;
+	font-size: 20px;
 	color: gold;
 	text-align: center;
 }

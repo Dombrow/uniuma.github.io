@@ -3,16 +3,19 @@ body {
 }
 
 #glav a {
+	font-family: 'Russo One', sans-serif;
 	color: yellow;
 	text-decoration: underline;
 }
 
 #glav h1 {
+	font-family: 'Ruslan Display', cursive;
 	color: green;
 	font-style: italic;
 }
 
 #glavsa h2 {
+	font-family: 'Russo One', sans-serif;
 	color: blue;
 	font-style: italic;
 	font-size: 36px;
@@ -35,6 +38,7 @@ body {
 }
 
 .dani h1 {
+	font-family: 'Amatic SC', cursive;
 	text-align: center;
 	color: yellow;
 	font-size: 100px;
