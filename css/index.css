@@ -13,6 +13,7 @@ body {
 }
 
 #glavsa h2 {
+	font-family: 'Pacifico', cursive;
 	color: blue;
 	font-style: italic;
 	font-size: 36px;
@@ -23,4 +24,28 @@ body {
 	background: yellow;
 	text-align: center;
 	text-decoration: underline;
+}
+
+button:disabled {
+	background-color: yellow;
+}
+
+.d:hover {
+	background-color: yellow;
+}
+
+.d:active {
+	background-color: black;
+}
+
+.d:focus {
+	background-color: green;
+}
+
+.w:visited {
+	color: green;
+}
+
+a {
+	cursor: pointer; 
 }
