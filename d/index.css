@@ -1,0 +1,23 @@
+#q {
+	display: inline-block;
+	background: blue;
+
+}
+
+#q p {
+	position: relative;
+	background-color: blue;
+}
+
+.w p {
+	position: relative;
+	color: white;
+}
+
+.w{
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	border: 2px solid darkblue;
+}
