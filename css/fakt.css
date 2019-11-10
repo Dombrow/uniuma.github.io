@@ -1,0 +1,146 @@
+body {
+	background-color: red;
+}
+
+#glav a {
+	font-family: 'Russo One', sans-serif;
+	font-size: 20px;
+	color: yellow;
+	text-decoration: underline;
+}
+
+#glav h1 {
+	font-family: 'Ruslan Display', cursive;
+	color: green;
+	font-style: italic;
+}
+
+#glavsa h2 {
+	font-family: 'Russo One', sans-serif;
+	color: blue;
+	font-style: italic;
+	font-size: 36px;
+	border: 8px groove green; 
+	padding: 30px 10px;
+	margin: 30px 10px;
+	border-radius: 30px;
+	background: yellow;
+	text-align: center;
+	text-decoration: underline;
+}
+
+#fakt p {
+	font-family: 'Caveat', cursive;
+	font-size: 20px;
+}
+
+#fakt h3 {
+	font-family: 'Amatic SC', cursive;
+}
+
+#der {
+	background-image: url(../image/fons.jpg);
+}
+
+#der h3 {
+	color: blue;
+	text-align: center;
+	font-size: 40px;
+	text-decoration: underline;
+}
+
+#der p {
+	color: black;
+	text-align: center;
+	font-weight: 900;
+}
+
+#kos {
+	background-image: url(../image/fons2.jpg);
+}
+
+#kos h3 {
+	color: blue;
+	text-align: center;
+	font-size: 40px;
+	text-decoration: underline;
+}
+
+#kos p {
+	color: yellow;
+	text-align: center;
+	font-weight: 900;
+}
+
+#zemla {
+	background-image: url(../image/fons3.jpg);
+}
+
+#zemla h3 {
+	color: blue;
+	text-align: center;
+	font-size: 40px;
+	text-decoration: underline;
+}
+
+#zemla p {
+	color: white;
+	text-align: center;
+	font-weight: 900;
+}
+
+#sokolad {
+	background-image: url(../image/fons4.jpg);
+}
+
+#sokolad h3 {
+	color: blue;
+	text-align: center;
+	font-size: 40px;
+	text-decoration: underline;
+}
+
+#sokolad p {
+	color: green;
+	text-align: center;
+	font-weight: 900;
+}
+
+#ekologia {
+	background-image: url(../image/fons5.jpg);
+}
+
+#ekologia h3 {
+	color: blue;
+	text-align: center;
+	font-size: 40px;
+	text-decoration: underline;
+}
+
+#ekologia p {
+	color: purple;
+	text-align: center;
+	font-weight: 900;
+}
+
+#fotbal {
+	background-image: url(../image/fons6.jpg);
+}
+
+#fotbal h3 {
+	color: blue;
+	text-align: center;
+	font-size: 40px;
+	text-decoration: underline;
+}
+
+#fotbal p {
+	color: brown;
+	text-align: center;
+	font-weight: 900;
+}
+
+#vver img{
+	display: block;
+	margin: 0 auto;
+}

@@ -3,17 +3,20 @@ body {
 }
 
 #glav a {
+	font-family: 'Russo One', sans-serif;
 	color: yellow;
 	text-decoration: underline;
 }
 
 #glav h1 {
+	font-family: 'Ruslan Display', cursive;
 	color: green;
 	font-style: italic;
 }
 
 #glavsa h2 {
 	font-family: 'Pacifico', cursive;
+	font-family: 'Russo One', sans-serif;
 	color: blue;
 	font-style: italic;
 	font-size: 36px;
@@ -26,7 +29,6 @@ body {
 	text-decoration: underline;
 }
 
-button:disabled {
 	background-color: yellow;
 }
 
@@ -48,4 +50,23 @@ button:disabled {
 
 a {
 	cursor: pointer; 
+
+#vver img {
+	display: block;
+	margin: 0 auto;
 }
+
+.dani {
+	background: blue url("../image/day.png") top right/70px 70px no-repeat;
+}
+
+.dani h1 {
+	font-family: 'Amatic SC', cursive;
+	text-align: center;
+	color: yellow;
+	font-size: 100px;
+}
+
+.dani:hover h1 {
+	background: purple url("../image/night.png") bottom left/70px 70px no-repeat;
+	color: black;

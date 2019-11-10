@@ -3,26 +3,33 @@ body {
 }
 
 #glav a {
+	font-family: 'Russo One', sans-serif;
+	font-size: 20px;
 	color: yellow;
 	text-decoration: underline;
 }
 
 #glav h1 {
+	font-family: 'Ruslan Display', cursive;
 	color: green;
 	font-style: italic;
 }
 
 #navv a {
+	font-family: 'Russo One', sans-serif;
+	font-size: 20px;
 	color: yellow;
 	text-decoration: underline;
 }
 
 #navv h1 {
+	font-family: 'Ruslan Display', cursive;
 	color: green;
 	font-style: italic;
 }
 
 #afisa h2 {
+	font-family: 'Russo One', sans-serif;
 	color: blue;
 	font-style: italic;
 	font-size: 36px;
@@ -36,16 +43,27 @@ body {
 }
 
 #animal h2 {
+	font-family: 'Amatic SC', cursive;
+	font-size: 35px;
 	color: aqua;
 	text-align: center;
 }
 
 #sport h2 {
+	font-family: 'Amatic SC', cursive;
+	font-size: 35px;
 	color: aqua;
 	text-align: center;
 }
 
 #music h2 {
+	font-family: 'Amatic SC', cursive;
+	font-size: 35px;
 	color: aqua;
 	text-align: center;
+}
+
+#vver img{
+	display: block;
+	margin: 0 auto;
 }

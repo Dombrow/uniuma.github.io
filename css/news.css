@@ -3,26 +3,31 @@ body {
 }
 
 #glav a {
+	font-family: 'Russo One', sans-serif;
 	color: yellow;
 	text-decoration: underline;
 }
 
 #glav h1 {
+	font-family: 'Ruslan Display', cursive;
 	color: green;
 	font-style: italic;
 }
 
 #vs h1 {
+	font-family: 'Ruslan Display', cursive;
 	color: green;
 	font-style: italic;
 }
 
 #vs a {
+	font-family: 'Russo One', sans-serif;
 	color: yellow;
 	text-decoration: underline;
 }
 
 #news h2 {
+	font-family: 'Russo One', sans-serif;
 	color: blue;
 	font-style: italic;
 	font-size: 36px;
@@ -36,26 +41,33 @@ body {
 }
 
 #news1 h3 {
+	font-family: 'Amatic SC', cursive;
 	color: aqua;
 	text-align: center;
 }
 
 #news1 p {
+	font-family: 'Caveat', cursive;
+	font-size: 20px;
 	color: lime;
 	text-align: center;
 }
 
 #news2 h3 {
+	font-family: 'Amatic SC', cursive;
 	color: aqua;
 	text-align: center;
 }
 
 #news2 p {
+	font-family: 'Caveat', cursive;
+	font-size: 20px;
 	color: lime;
 	text-align: center;
 }
 
 #obn h2 {
+	font-family: 'Russo One', sans-serif;
 	color: blue;
 	font-style: italic;
 	font-size: 36px;
@@ -69,21 +81,32 @@ body {
 }
 
 #obn1 h3 {
+	font-family: 'Amatic SC', cursive;
 	color: aqua;
 	text-align: center;
 }
 
 #obn1 p {
+	font-family: 'Caveat', cursive;
+	font-size: 20px;
 	color: lime;
 	text-align: center;
 }
 
 #obn2 h3 {
+	font-family: 'Amatic SC', cursive;	
 	color: aqua;
 	text-align: center;
 }
 
 #obn2 p {
+	font-family: 'Caveat', cursive;
+	font-size: 20px;
 	color: lime;
 	text-align: center;
+}
+
+#vver img{
+	display: block;
+	margin: 0 auto;
 }
