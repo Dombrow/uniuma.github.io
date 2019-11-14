@@ -97,3 +97,14 @@ body {
 	text-align: center;
 	font-family: cursive;
 }
+
+
+#kotik h1 {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+#kotik p {
+	text-align: left;
+	font-family: cursive;
+}
