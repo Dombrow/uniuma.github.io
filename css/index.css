@@ -48,3 +48,37 @@ body {
 	background: purple url("../image/night.png") bottom left/70px 70px no-repeat;
 	color: black;
 }
+
+#element {
+  	margin: 0px;
+  	height: 100px;
+  	width: 500px;
+  	border: 1px solid grey;
+}
+
+#element1 {
+  	position: relative;
+  	background: hotpink;
+  	width: 60px; 
+  	height: 60px;
+  	top: 20px;
+  	left: 100px;
+}
+
+#element2 {
+  	position: relative;
+  	background: hotpink;
+  	width: 60px; 
+  	height: 60px;
+  	top: -40px;
+  	left: 200px;
+}
+
+#element3 {
+  	position: relative;
+  	background: hotpink;
+  	width: 60px; 
+  	height: 60px;
+  	top: -100px;
+  	left: 300px;
+}
