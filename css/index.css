@@ -67,3 +67,108 @@ a {
 .dani:hover h1 {
 	background: purple url("../image/night.png") bottom left/70px 70px no-repeat;
 	color: black;
+}
+
+#element {
+  	margin: 0px;
+  	height: 100px;
+  	width: 500px;
+  	border: 1px solid grey;
+}
+
+#element1 {
+  	position: relative;
+  	background: hotpink;
+  	width: 60px; 
+  	height: 60px;
+  	top: 20px;
+  	left: 100px;
+}
+
+#element2 {
+  	position: relative;
+  	background: hotpink;
+  	width: 60px; 
+  	height: 60px;
+  	top: -40px;
+  	left: 200px;
+}
+
+#element3 {
+  	position: relative;
+  	background: hotpink;
+  	width: 60px; 
+  	height: 60px;
+  	top: -100px;
+  	left: 300px;
+}
+
+#ministat {
+	border: 1px solid black;
+	border-radius: 4px;
+}
+
+#ministat h1 {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+#ministat p {
+	text-align: center;
+	font-family: cursive;
+}
+
+
+#kotik h1 {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+#kotik p {
+	text-align: left;
+	font-family: cursive;
+}
+
+#zvetred {
+	position: relative;
+  	background: pink;
+  	width: 60px; 
+  	height: 60px;
+  	top: 50px;
+  	left: 300px;
+  	z-index: 1;
+}
+
+#zveta h1 {
+	text-align: center;
+}
+
+#zvetblue {
+	position: relative;
+  	background: blue;
+  	width: 60px; 
+  	height: 60px;
+  	top: -30px;
+  	left: 340px;
+  	z-index: -1;
+}
+
+#zvetgreen {
+	position: relative;
+  	background: green;
+  	width: 60px; 
+  	height: 60px;
+  	top: -70px;
+  	left: 380px;
+  	z-index: 0;
+}
+
+#zvetyellow {
+	position: relative;
+  	background: yellow;
+  	width: 60px; 
+  	height: 60px;
+  	top: -150px;
+  	left: 420px;
+  	z-index: -1;
+}
