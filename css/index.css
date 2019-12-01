@@ -15,7 +15,6 @@ body {
 }
 
 #glavsa h2 {
-	font-family: 'Pacifico', cursive;
 	font-family: 'Russo One', sans-serif;
 	color: blue;
 	font-style: italic;
@@ -28,25 +27,6 @@ body {
 	text-align: center;
 	text-decoration: underline;
 }
-
-.d:hover {
-	background-color: yellow;
-}
-
-.d:active {
-	background-color: black;
-}
-
-.d:focus {
-	background-color: green;
-}
-
-.w:visited {
-	color: green;
-}
-
-a {
-	cursor: pointer; 
 
 #vver img {
 	display: block;

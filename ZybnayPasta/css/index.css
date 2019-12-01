@@ -1,0 +1,43 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.stomotolog {
+	background-image: url(../image/stomotolog.jpg);
+	background-size: cover;
+	margin: 0 auto
+	width: 100%;
+	height: 900px;
+}
+
+.rek h1 {
+	text-align: center;
+}
+
+.pasta {
+	margin: 10px auto 10px;
+	border-radius: 5px;
+	border: 1px none white;
+	padding: 5px;
+	width: 1200px;
+	height: 800px;
+	background: white;
+	opacity: 0.5;
+}
+
+.pasta p {
+	padding-top: 10px;
+	line-height: 0;
+	opacity: 1;
+}
+
+.colgatet {
+	border: 5px solid blue;
+	width: 200px;
+}
+
+.colgatet img {
+	width: 200px;
+	height: 200px;
+}
