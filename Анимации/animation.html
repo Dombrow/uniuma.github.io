@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Animation</title>
+	<meta charset="utf-8">
+<style type="text/css">
+	div {
+		width: 100px;
+		height: 100px;
+		background-color: green;
+		position: relative;
+		animation: slidein 5s infinite;
+	}
+
+	@keyframes slidein {
+		0% {top: 0; left: 0;}
+		25% {left: 2550px; background-color: red;}
+		50% {left: 300px; top: 1000px; background-color: yellow;}
+		75% {left: 500px; top: 100px; background-color: green;}
+		100% {top: 0; left: 0; background-color: red;}
+	}
+</style>
+</head>
+<body>
+	<div></div>
+</body>
+</html>

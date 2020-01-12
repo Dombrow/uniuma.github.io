@@ -1,0 +1,29 @@
+body {
+	display: flex;
+	justify-content: center;
+	background-color: #222;
+	align-items: center;
+}
+
+.inner {
+	width: 100px;
+	height: 100px;
+	animation: rotator 5s infinite;
+}
+
+.inner:first-child {
+	background-color: #FBC02D;
+	transform-origin: 50% 100%;
+}
+
+.inner:nth-child(2) {
+	background-color: #00796B;
+	transform-origin: 50% 0%;
+}
+
+@keyframes rotator {
+	100% {
+		transform: rotate(180deg);
+	}
+
+}
